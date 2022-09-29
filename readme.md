@@ -1,8 +1,8 @@
 # Project-Shopify Web clone using HTML and Tailwind CSS
 
-![Badge]()
+![Badge](https://img.shields.io/badge/Shopify-Clone-green)
 
-# [Link of live Project]()
+# [Link of live Project](https://shopifywebdevclone.netlify.app/)
 
 ![Images](./img/landingpagshopify.jpeg)
 
